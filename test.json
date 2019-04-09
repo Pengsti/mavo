@@ -5,5 +5,18 @@
 		"List Nummer 1",
 		"Clown",
 		"Heile"
+	],
+	"news": [
+		{
+			"image": "https://picsum.photos/500",
+			"title": "News Titel",
+			"date": "09. April 2019",
+			"description": "\n            Trump baut doch keine Mauer...\n          "
+		},
+		{},
+		{},
+		{},
+		{},
+		{}
 	]
 }
