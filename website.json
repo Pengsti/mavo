@@ -1,6 +1,10 @@
 {
 	"news": [
-		{},
+		{
+			"title": "Das ist ein Meer",
+			"date": "09. April 2019",
+			"description": "So ist das mit dem Meer, ziemlich blau by the way!"
+		},
 		{},
 		{},
 		{},
