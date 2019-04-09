@@ -1,5 +1,9 @@
 {
 	"title": "Hello World i am testing :)",
 	"title2": "Bye Bye World i am property #2",
-	"list": "List Nummer 1"
+	"list": [
+		"List Nummer 1",
+		"Clown",
+		"Heile"
+	]
 }
